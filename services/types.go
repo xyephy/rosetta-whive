@@ -25,7 +25,7 @@ import (
 const (
 	// NodeVersion is the version of
 	// whive core we are using.
-	NodeVersion = "1.0.2"
+	NodeVersion = "2.0.0"
 
 	// HistoricalBalanceLookup indicates
 	// that historical balance lookup is supported.
