@@ -7,7 +7,7 @@
    Rosetta Whive
 </h3>
 <p align="center">
-  <a href="https://circleci.com/gh/xyephy/rosetta-whive/tree/master"><img src="https://circleci.com/gh/xyephy/rosetta-whive/tree/master.svg?style=shield" /></a>
+  <a href="https://coveralls.io/github/coinbase/rosetta-bitcoin"><img src="https://coveralls.io/github/coinbase/rosetta-bitcoin/tree/master.svg?style=shield" /></a>
   <a href="https://coveralls.io/github/xyephy/rosetta-whive"><img src="https://coveralls.io/repos/github/xyephy/rosetta-whive/badge.svg" /></a>
   <a href="https://goreportcard.com/report/github.com/xyephy/rosetta-whive"><img src="https://goreportcard.com/badge/github.com/xyephy/rosetta-whive" /></a>
   <a href="https://github.com/xyephy/rosetta-whive/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/xyephy/rosetta-whive.svg" /></a>
