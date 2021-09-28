@@ -7,10 +7,10 @@
    Rosetta Whive
 </h3>
 <p align="center">
-  <a href="https://circleci.com/gh/xyephy/rosetta-whive/tree/master"><img src="https://circleci.com/gh/coinbase/rosetta-whive/tree/master.svg?style=shield" /></a>
-  <a href="https://coveralls.io/github/xyephy/rosetta-whive"><img src="https://coveralls.io/repos/github/coinbase/rosetta-whive/badge.svg" /></a>
-  <a href="https://goreportcard.com/report/github.com/xyephy/rosetta-whive"><img src="https://goreportcard.com/badge/github.com/coinbase/rosetta-whive" /></a>
-  <a href="https://github.com/xyephy/rosetta-whive/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/coinbase/rosetta-whive.svg" /></a>
+  <a href="https://coveralls.io/github/coinbase/rosetta-bitcoin"><img src="https://coveralls.io/github/coinbase/rosetta-bitcoin/tree/master.svg?style=shield" /></a>
+  <a href="https://coveralls.io/github/coinbase/rosetta-bitcoin"><img src="https://coveralls.io/github/coinbase/rosetta-bitcoin/badge.svg" /></a>
+  <a href="https://goreportcard.com/report/github.com/xyephy/rosetta-whive"><img src="https://goreportcard.com/badge/github.com/xyephy/rosetta-whive" /></a>
+  <a href="https://github.com/xyephy/rosetta-whive/blob/master/LICENSE.txt"><img src="https://img.shields.io/github/license/xyephy/rosetta-whive.svg" /></a>
   <a href="https://pkg.go.dev/github.com/xyephy/rosetta-whive?tab=overview"><img src="https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=shield" /></a>
 </p>
 
