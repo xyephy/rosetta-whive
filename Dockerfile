@@ -26,7 +26,7 @@ RUN apt-get update && apt-get install -y make gcc g++ autoconf autotools-dev bsd
 # VERSION: WHIVE Core 2.17.0
 RUN git clone https://github.com/whiveio/whive \
   && cd whive \
-  && git checkout cd8e92eff213bf0878590e9c2480bec613299c78
+  && git checkout f7acdd4cfd9f45620eb42b321e2e13204c0e989d
 
 RUN cd whive\
   && ./autogen.sh \
