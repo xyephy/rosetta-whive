@@ -24,9 +24,9 @@ RUN apt-get update && apt-get install -y make gcc g++ autoconf autotools-dev bsd
   libcurl4-openssl-dev libdb++-dev libevent-dev libssl-dev libtool pkg-config python python-pip libzmq3-dev wget git
 
 # VERSION: WHIVE Core 2.17.0
-RUN git clone https://github.com/xyephy/whive \
+RUN git clone https://github.com/whiveio/whive \
   && cd whive \
-  && git checkout fccd6f08ad03a8135105cc5dfc78ffe564ce346f
+  && git checkout cd8e92eff213bf0878590e9c2480bec613299c78
 
 RUN cd whive\
   && ./autogen.sh \
