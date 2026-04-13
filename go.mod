@@ -11,7 +11,7 @@ require (
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/stretchr/testify v1.8.4
-	go.uber.org/zap v1.24.0
+	go.uber.org/zap v1.27.1
 	golang.org/x/sync v0.3.0
 	google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013 // indirect
 )
