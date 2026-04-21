@@ -7,7 +7,7 @@ require (
 	github.com/btcsuite/btcd/chaincfg/chainhash v1.0.2
 	github.com/btcsuite/btcutil v1.0.3-0.20201208143702-a53e38424cce
 	github.com/coinbase/rosetta-sdk-go v0.8.3
-	github.com/coinbase/rosetta-sdk-go/types v1.0.0
+	github.com/coinbase/rosetta-sdk-go/types v1.7.1
 	github.com/dgraph-io/badger/v2 v2.2007.4
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/stretchr/testify v1.8.4
